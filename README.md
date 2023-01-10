@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-Es es un repositorio de prueba del módulo 2 de Henry
+Este proyecto es una prueba de como crear y guardar repositorios en la nube de Henry
+
